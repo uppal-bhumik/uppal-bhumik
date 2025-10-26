@@ -9,7 +9,7 @@
 
 <p align="center">
   <b>Python Developer | AI/ML Enthusiast | MLOps</b><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3500&pause=800&color=2E7DFF&center=true&vCenter=true&width=500&lines=AI/ML+Developer;Generative+AI+%26+Computer+Vision;MLOps+%26+Full-Stack+Development;Python+%7C+TensorFlow+%7C+Docker+%7C;Published+Springer+Researcher;Open+to+New+AI/ML+Opportunities" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3500&pause=800&color=2E7DFF&center=true&vCenter=true&width=500&lines=AI/ML+Developer;Generative+AI+%26+Computer+Vision;MLOps+%26+Full-Stack+Development;Python+%7C+TensorFlow+%7C+Docker;Published+Springer+Researcher;Open+to+New+AI/ML+Opportunities" alt="Typing SVG"/>
 </p>
 
 <p align="center">
