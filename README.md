@@ -77,7 +77,7 @@
     <li>Created an AI-driven hiring platform with conversational LLM integration for automated candidate evaluation.</li>
     <li>Implemented a full-stack architecture for real-time question generation and hiring report generation.</li>
     <li><em>(Technologies: GenAI, LLMs, Python, FastAPI)</em></li>
-    <li><a href="[PASTE_YOUR_TalentScoutAI_REPO_LINK_HERE]">View Repository</a></li>
+    <li><a href="https://github.com/uppal-bhumik/TalentScout-AI">View Repository</a></li>
   </ul>
 </p>
 
@@ -87,7 +87,7 @@
     <li>Developed an empathetic health assistant offering reproductive health support, which was pitched to the Govt. of Karnataka.</li>
     <li>Built a dual-mode web app (Node.js, Azure TTS) providing accessible voice and chat-based guidance.</li>
     <li><em>(Technologies: NLP, Azure TTS, Node.js)</em></li>
-    <li><a href="[PASTE_YOUR_SheNurtures_REPO_LINK_HERE]">View Repository</a></li>
+    <li><a href="https://github.com/uppal-bhumik/she-nurtures-ai">View Repository</a></li>
   </ul>
 </p>
 
@@ -97,17 +97,27 @@
     <li>Built a YOLOv5+ CNN hybrid model achieving 94% accuracy on custom datasets.</li>
     <li>Deployed on Raspberry Pi using TensorFlow Lite for real-time edge inference.</li>
     <li><em>(Technologies: Computer Vision, CNN, YOLOv5, TensorFlow Lite, IoT)</em></li>
-    <li><a href="[PASTE_YOUR_WasteSegregation_REPO_LINK_HERE]">View Repository</a></li>
+    <li><a href="https://link.springer.com/chapter/10.1007/978-981-96-7134-2_24">View Publication/Conference Details</a></li>
+  </ul>
+</p>
+
+<p>
+  <strong>AI-Powered Business Intelligence Assistant</strong>
+  <ul>
+    <li>Developed an AI-powered business intelligence assistant that converts natural language queries into actionable data insights. [cite: 21]</li>
+    <li>Supports live SQL generation, interactive charts, and a modular architecture.</li>
+    <li>Delivered as a production-ready tool for non-technical teams during my internship at Escorts Kubota Ltd. [cite: 24]</li>
+    <li><em>(Technologies: GenAI, LLMs, Flask, SQLAlchemy ORM, Streamlit)</em> [cite: 22]</li>
+    <li><a href="https://github.com/uppal-bhumik/bi-ai-agent">View Repository</a></li>
   </ul>
 </p>
 
 <p>
   <strong>Sign Language Learning App</strong>
   <ul>
-    <li>Developed an LSTM-CNN model with MediaPipe for hand tracking, achieving high-accuracy gesture recognition (<100ms latency)[cite: 30, 31].</li>
+    <li>Developed an LSTM-CNN model with MediaPipe for hand tracking, achieving high-accuracy gesture recognition (<100ms latency).</li>
     <li>Deployed via Flask API for real-time English/Gujarati translation.</li>
     <li><em>(Technologies: Computer Vision, LSTM, CNN, MediaPipe, Flask)</em></li>
-    <li><a href="[PASTE_YOUR_SignLanguage_REPO_LINK_HERE]">View Repository</a></li>
   </ul>
 </p>
 
