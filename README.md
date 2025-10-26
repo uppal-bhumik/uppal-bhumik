@@ -66,7 +66,6 @@
     <li>Built a YOLOv5+ CNN hybrid model achieving 94% accuracy on custom datasets.</li>
     <li>Deployed on Raspberry Pi using TensorFlow Lite for real-time edge inference.</li>
     <li><em>(Technologies: Computer Vision, CNN, YOLOv5, TensorFlow Lite, IoT)</em></li>
-    <li><a href="https://link.springer.com/chapter/10.1007/978-981-96-7134-2_24">View Publication/Conference Details</a></li>
   </ul>
 </p>
 
@@ -109,6 +108,7 @@
 
 <p>
   <strong>Smart Waste Management: Advanced Computer Vision for Efficient Segregation</strong>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-981-96-7134-2_24">View Publication/Conference Details</a></li>
   <ul>
     <li>Published and presented at the 8th International Conference on Innovative Computing and Communication (ICICC).</li>
     <li>Published in Springer LNNS.</li>
