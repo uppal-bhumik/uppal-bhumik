@@ -1,9 +1,5 @@
 
-<!-- 
-    Profile README for Bhumik Uppal
-    Inspired by the latest resume (images 1, 2)
-    Last updated: June 2025
--->
+
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=19QwTh6i-PLjMf2HxXh89V4C9Be7FHdo5" height="180" alt="Banner"/>
@@ -13,8 +9,7 @@
 
 <p align="center">
   <b>Python Developer | AI/ML Enthusiast | MLOps</b><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3500&pause=800&color=2E7DFF&center=true&vCenter=true&width=500&lines=Python+Django+Expert;Open+To+Work+For+Exciting+Opportunities;Cloud+%26+DevOps+Specialist;Blockchain+Builder;Tech+Mentor+%26+Team+Player;Always+Learning+%F0%9F%92%AB" alt="Typing SVG"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3500&pause=800&color=2E7DFF&center=true&vCenter=true&width=500&lines=Python+Django+Expert;Open+To+Work+For+Excellent+Teams;Cloud+and+Blockchain+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3500&pause=800&color=2E7DFF&center=true&vCenter=true&width=500&lines=AI/ML+Developer;Generative+AI+%26+Computer+Vision;MLOps+%26+Full-Stack+Development;Python+%7C+TensorFlow+%7C+Docker+%7C;Published+Springer+Researcher;Open+to+New+AI/ML+Opportunities" alt="Typing SVG"/>
 </p>
 
 <p align="center">
