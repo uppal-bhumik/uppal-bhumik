@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=19QwTh6i-PLjMf2HxXh89V4C9Be7FHdo5" height="180" alt="Banner"/>
+  <img src="https://drive.google.com/file/d/1T0RH-FvC3S1TtocXup3dI_nk_MEImp7K/view?usp=drive_link" height="180" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#2e7dff">Bhumik Uppal</span> 👋</h1>
