@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/uppal-bhumik/uppal-bhumik/main/tech.png" alt="Bhumik Uppal Banner">
 
 
 <p align="center">
