@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/uppal-bhumik/uppal-bhumik/main/tech.png" alt="Bhumik Uppal Banner">
+  <img src="https://raw.githubusercontent.com/uppal-bhumik/uppal-bhumik/main/tech2.png" alt="Bhumik Uppal Banner">
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#2e7dff">Bhumik Uppal</span> 👋</h1>
