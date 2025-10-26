@@ -107,8 +107,9 @@
 ### 📖 Research & Publications
 
 <p>
-  <strong>Smart Waste Management: Advanced Computer Vision for Efficient Segregation</strong>
-  <li><a href="https://link.springer.com/chapter/10.1007/978-981-96-7134-2_24">View Publication/Conference Details</a></li>
+  <strong>Smart Waste Management: Advanced Computer Vision for Efficient Segregation
+  <li><a href="https://link.springer.com/chapter/10.1007/978-981-96-7134-2_24">View Publication/Conference Details</a></li></strong>
+  
   <ul>
     <li>Published and presented at the 8th International Conference on Innovative Computing and Communication (ICICC).</li>
     <li>Published in Springer LNNS.</li>
