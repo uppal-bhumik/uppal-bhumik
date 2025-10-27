@@ -23,9 +23,8 @@
 > 
 - 🤖 **AI/ML Developer:** Final-year B.Tech Industrial IoT student specializing in Generative AI, Computer Vision, and MLOps.
 - 📖 **Published Researcher:** Published and presented AI research on Computer Vision in Springer LNNS and at the 8th ICICC.
-- ☁️ **MLOps & Cloud:** Proficient in deploying AI systems using Docker, Kubernetes, CI/CD, and Microsoft Azure.
-- 🧠 **GenAI & CV:** Hands-on experience with GenAI, RAG, NLP, TensorFlow, and OpenCV to build intelligent applications.
-- ⚙️ **Full-Stack AI:** Experienced in building the full stack for AI tools using Python, Flask, FastAPI, Streamlit, and SQL.
+- ☁️ **MLOps & Deployment:** Proficient in deploying AI systems using Docker, Kubernetes, CI/CD, and Microsoft Azure.
+- 🧠 **Full-Stack AI:** Hands-on experience with Python, Flask, FastAPI, GenAI, RAG, NLP, TensorFlow, and OpenCV to build AI applications.
 - 📍 Based in Delhi, India.
 
 ---
