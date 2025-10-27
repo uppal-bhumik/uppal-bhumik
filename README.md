@@ -72,10 +72,10 @@
 <p>
   <strong>AI-Powered Business Intelligence Assistant</strong>
   <ul>
-    <li>Developed an AI-powered business intelligence assistant that converts natural language queries into actionable data insights. [cite: 21]</li>
+    <li>Developed an AI-powered business intelligence assistant that converts natural language queries into actionable data insights.</li>
     <li>Supports live SQL generation, interactive charts, and a modular architecture.</li>
-    <li>Delivered as a production-ready tool for non-technical teams during my internship at Escorts Kubota Ltd. [cite: 24]</li>
-    <li><em>(Technologies: GenAI, LLMs, Flask, SQLAlchemy ORM, Streamlit)</em> [cite: 22]</li>
+    <li>Delivered as a production-ready tool for non-technical teams during my internship at Escorts Kubota Ltd.</li>
+    <li><em>(Technologies: GenAI, LLMs, Flask, SQLAlchemy ORM, Streamlit)</em></li>
     <li><a href="https://github.com/uppal-bhumik/bi-ai-agent">View Repository</a></li>
   </ul>
 </p>
